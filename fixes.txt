@@ -1,2 +1,4 @@
 I'm a file which will be used to fix the bugs.
 This file is in a new bug-fix branch.
+
+fixes another bug.
