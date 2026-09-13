@@ -6,3 +6,4 @@ one more bug detected and bug fixed.
 fourth bug fixed.
 fifth bug fixed.
 another fix message for pinkmode.
+another fix message for purplemode.
