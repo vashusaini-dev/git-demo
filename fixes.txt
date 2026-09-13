@@ -7,3 +7,4 @@ fourth bug fixed.
 fifth bug fixed.
 another fix message for pinkmode.
 another fix message for purplemode.
+this is another fix for purplemode.
